@@ -1,0 +1,39 @@
+body {
+    background: #43C6AC;
+    background: -webkit-linear-gradient(to right, #43C6AC, #F8FFAE);
+    background: linear-gradient(to right, #43C6AC, #dce35b);
+}
+
+.navi {
+    margin-top: 30px;
+}
+
+.heading {
+    width: 100%;
+    font-size: 4.2rem;
+    font-family: 'Lora', serif;
+    color: #f1f1f1;
+}
+
+.card {
+    margin: 50px auto;
+    float: none;
+    margin-bottom: 10px;
+    width: 40%;
+    background: #abbaab;
+    background: -webkit-linear-gradient(to right, #ece9e6, #ffffff);
+    background: linear-gradient(to right, #ece9e6, #ffffff);
+    border-radius: 25px;
+}
+
+.card-col {
+    margin-top: 10px;
+}
+
+.footer-section {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 80px;
+}
